@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:ycchen-dev/blog.git 
-  branch: gh-pages or master 
+  branch: master 
